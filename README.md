@@ -12,7 +12,8 @@ CREATE TABLE public.employee (
 	CONSTRAINT employee_pkey PRIMARY KEY (id)
 );
 
-Git clone 
+
+git clone -b main https://github.com/Bhavani6079/project_employees.git
 
 go to project_emlployee and run is commands
 1.npm install
