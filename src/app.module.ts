@@ -10,10 +10,10 @@ import { EmployeeModule } from './module/employee/employee.module';
     TypeOrmModule.forRoot({
       type:'postgres',
       host:'localhost',
-      port:5433,
+      port:5432,
       username:'postgres',
       password:'postgres',
-      database:'mahesh',
+      database:'bhavani',
       logging:true,
       autoLoadEntities:true,
       synchronize:false

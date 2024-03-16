@@ -1,4 +1,4 @@
-create database Bhavani in postgres with 
+create database bhavani in postgres with 
 Username:postgres
 Password:postgres
 
